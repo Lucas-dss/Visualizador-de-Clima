@@ -1,0 +1,8 @@
+Guide to access the app:
+	- Click on the shortcut (if you want, you can put it on the desktop);
+	- Enter on the dir 'dist', and click in executable.
+
+Instructions for accessing the application:
+- Click on the shortcut (if you wish, you can place it on your desktop);
+
+- Go to the 'dist' directory and click on the executable file.
