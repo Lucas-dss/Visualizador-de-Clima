@@ -5,4 +5,4 @@
 3. Adicione sua chave da OpenWeather:
    API_KEY=sua_chave_aqui
 5. Execute dentro da pasta 'dist' o arquivo:
-   weatherApp.exe
+   `weatherApp.exe`
